@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "firebase": "^7.14.2",
-    "immer": "^6.0.5",
+    "immer": "^9.0.6",
     "lodash.get": "^4.4.2"
   }
 }
